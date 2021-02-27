@@ -37,3 +37,7 @@ h2{
   text-align: center;
   color: white;
 }
+
+::-webkit-scrollbar{
+  display: none;
+}
