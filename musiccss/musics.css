@@ -1,3 +1,5 @@
+
+
 nav ul li{
   list-style-type: none;
   display: inline-block;
@@ -50,4 +52,334 @@ body{
 
 ::-webkit-scrollbar{
   display: none;
+}
+
+h1{
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  text-decoration-line: underline;
+}
+
+
+.player1{
+  float: left;
+  width: 350px;
+  background: #f1f2f3f4;
+  margin-left: 70px;
+  margin-top: 30px;
+}
+
+.player1 .imgBx1{
+  width: 100%;
+  height: 350px;
+}
+
+.player1 .imgBx1 img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.player1 audio{
+  width: 100%;
+  outline: none;
+}
+
+
+
+
+
+
+
+
+.player2{
+  float: left;
+  width: 350px;
+  background: #f1f2f3f4;
+  margin-left: 30px;
+  margin-top:30px;
+}
+
+.player2 .imgBx2{
+  width: 100%;
+  height: 350px;
+}
+
+.player2 .imgBx2 img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.player2 audio{
+  width: 100%;
+  outline: none;
+}
+
+
+
+
+.player3{
+  float: left;
+  width: 350px;
+  background: #f1f2f3f4;
+  margin-left: 30px;
+  margin-top:30px;
+}
+
+.player3 .imgBx3{
+  width: 100%;
+  height: 350px;
+}
+
+.player3 .imgBx3 img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.player3 audio{
+  width: 100%;
+  outline: none;
+}
+
+
+
+.player4{
+  float: left;
+  width: 350px;
+  background: #f1f2f3f4;
+  margin-left: 70px;
+  margin-top:30px;
+}
+
+.player4 .imgBx4{
+  width: 100%;
+  height: 350px;
+}
+
+.player4 .imgBx4 img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.player4 audio{
+  width: 100%;
+  outline: none;
+}
+
+
+
+.player5{
+  float: left;
+  width: 350px;
+  background: #f1f2f3f4;
+  margin-left: 30px;
+  margin-top:30px;
+}
+
+.player5 .imgBx5{
+  width: 100%;
+  height: 350px;
+}
+
+.player5 .imgBx5 img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.player5 audio{
+  width: 100%;
+  outline: none;
+}
+
+
+
+.player6{
+  float: left;
+  width: 350px;
+  background: #f1f2f3f4;
+  margin-left: 30px;
+  margin-top:30px;
+}
+
+.player6 .imgBx6{
+  width: 100%;
+  height: 350px;
+}
+
+.player6 .imgBx6 img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.player6 audio{
+  width: 100%;
+  outline: none;
+}
+
+
+
+
+.player7{
+  float: left;
+  width: 350px;
+  background: #f1f2f3f4;
+  margin-left: 70px;
+  margin-top:30px;
+}
+
+.player7 .imgBx7{
+  width: 100%;
+  height: 350px;
+}
+
+.player7 .imgBx7 img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.player7 audio{
+  width: 100%;
+  outline: none;
+}
+
+
+
+
+.player8{
+  float: left;
+  width: 350px;
+  background: #f1f2f3f4;
+  margin-left: 30px;
+  margin-top:30px;
+}
+
+.player8 .imgBx8{
+  width: 100%;
+  height: 350px;
+}
+
+.player8 .imgBx8 img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.player8 audio{
+  width: 100%;
+  outline: none;
+}
+
+
+
+
+.player9{
+  float: left;
+  width: 350px;
+  background: #f1f2f3f4;
+  margin-left: 30px;
+  margin-top:30px;
+}
+
+.player9 .imgBx9{
+  width: 100%;
+  height: 350px;
+}
+
+.player9 .imgBx9 img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.player9 audio{
+  width: 100%;
+  outline: none;
+}
+
+
+
+
+
+
+.player10{
+  float: left;
+  width: 350px;
+  background: #f1f2f3f4;
+  margin-left: 70px;
+  margin-top:30px;
+}
+
+.player10 .imgBx10{
+  width: 100%;
+  height: 350px;
+}
+
+.player10 .imgBx10 img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.player10 audio{
+  width: 100%;
+  outline: none;
+}
+
+
+
+
+
+.player11{
+  float: left;
+  width: 350px;
+  background: #f1f2f3f4;
+  margin-left: 30px;
+  margin-top:30px;
+}
+
+.player11 .imgBx11{
+  width: 100%;
+  height: 350px;
+}
+
+.player11 .imgBx11 img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.player11 audio{
+  width: 100%;
+  outline: none;
+}
+
+
+
+
+.player12{
+  float: left;
+  width: 350px;
+  background: #f1f2f3f4;
+  margin-left: 30px;
+  margin-top:30px;
+}
+
+.player12 .imgBx12{
+  width: 100%;
+  height: 350px;
+}
+
+.player12 .imgBx12 img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.player12 audio{
+  width: 100%;
+  outline: none;
 }
